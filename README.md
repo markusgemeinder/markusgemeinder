@@ -2,7 +2,7 @@
 
 
 # Profil Markus Gemeinder
-<img src="/images/gmndr-pic.jpg" width="300">
+<img src="/images/gmndr-pic-2.jpg" width="300">
 
 ## Über mich
 Herzlich willkommen auf meiner Seite! Hier gibt's ein paar komprimierte Infos über mich. Lust auf mehr Details? Dann freue ich mich auf eine Nachricht.
