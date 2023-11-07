@@ -1,30 +1,30 @@
-# HTML and the web: `div`-salad
+# Profil Markus Gemeinder
 
-## Task
+## Über mich
+Herzlich willkommen auf meiner Seite! Hier gibt's ein paar komprimierte Infos über mich. Lust auf mehr Details? Dann freue ich mich auf eine Nachricht.
 
-- Open the `./index.html` file and follow the instructions given there.
+## Kontakt
+- [info(at)gemeinder-coaching.de](mailto:inf@gemeinder-coaching.de)
+- [Instagram](https://www.instagram.com/gemeindercoaching)
+- [Facebook](https://www.facebook.com/gemeindercoaching)
 
-## Notes
+## Skills
+- HTML
+- CSS
+- JavaScript
+- Adobe CS (Photoshop, Indesign, Illustrator)
+- Affinity (Photo, Publisher, Designer)
+- Fotografie
 
-- You only have to touch the `./index.html` file.
+## Qualifikationen
+- Dipl.-Betriebswirt Marketing-Kommunikation (FH)
+- Online Marketing Manager / Schwerpunkt Social Media (sma)
+- Business Coach / Systemischer Coach mit Supervision (IHK)
+- Zertifizierter Flinteninstruktor (NSCA/USA & CPSA/UK)
 
-## Development
-
-### Local Development
-
-Run `npm run start` to start a development server and open [localhost:3000](http://localhost:3000) in a browser.
-
-> Alternatively you can use the Live Preview Extension for Visual Studio Code to view this project.  
-> Select the HTML file you want to view, press <kbd>⇧</kbd><kbd>⌘</kbd><kbd>P</kbd>, search for `Live Preview: Show Preview` and confirm with <kbd>Enter</kbd>.
-
-### CodeSandbox Cloud
-
-Select the "Preview: 3000" tab to view this project.
-
-> The `npm run start` script runs automatically.
-
-### Scripts
-
-You can use the following commands:
-
-- `npm run start` to start a development server
+## Interessen
+- Outdoor, Wandern, Berge
+- Ski (Alpin, Skating)
+- Inline Skating
+- Schwimmen
+- Kochen & Genießen
