@@ -18,6 +18,7 @@ Herzlich willkommen auf meiner Seite! Hier gibt's ein paar komprimierte Infos ü
 - HTML
 - CSS
 - JavaScript
+- Visual Basic
 - Adobe CS (Photoshop, Indesign, Illustrator)
 - Affinity (Photo, Publisher, Designer)
 - Fotografie
