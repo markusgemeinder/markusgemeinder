@@ -1,4 +1,8 @@
 body {
+  diplay: flex;
+  flex-flow: row wrap;
+  margin: 80px 0 40px 0;
+
   font-family: "Istok Web", Arial, Helvetica, sans-serif;
   font-size: 1rem;
   color: #525e66;
@@ -6,4 +10,58 @@ body {
   padding: 40px;
   display: inline-block;
   background-color: lightgoldenrodyellow;
+}
+
+.nav {
+}
+
+.nav__list {
+}
+
+.nav__link {
+}
+
+.header {
+  background: #140523;
+  color: #ffffff;
+  height: 80px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0 3px 8px;
+  padding: 10px;
+  position: fixed;
+  /* position: sticky; */
+  top: 0;
+  /* box full screen: --> set left + right = 0 */
+  /* left: 0;
+  right: 0; */
+  z-index: 1;
+}
+
+.header__headline {
+}
+
+.header__subline {
+}
+
+.container {
+}
+
+.container__headline {
+}
+
+.container__button {
+}
+
+.container__text {
+}
+
+.others {
+}
+
+.goto-top {
+}
+
+.footer {
+}
+
+.footer__text {
 }
