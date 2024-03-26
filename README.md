@@ -4,7 +4,7 @@
 
 ## Das bin ich | That's me
 
-Selbständig im Bereich Coaching und Marketing – offen für neue Aufgaben und auf der Suche nach einer Nebentätigkeit im Bereich Web Development. Frei verfügbar von November bis Februar (während der Coaching-Hauptsaison von März bis Oktober mit Einschränkungen). | Self-employed in the field of coaching and marketing - open to new opportunities and seeking a side job in web development. Available from November to February (with limitations during the coaching main season from March to October).
+Selbständig im Bereich Coaching und Marketing – offen für neue Aufgaben und auf der Suche nach einer Nebentätigkeit im Bereich Web Development. Frei verfügbar von November bis Februar (während der Coaching-Hauptsaison von März bis Oktober mit Einschränkungen). | Self-employed in the field of coaching and marketing – open to new opportunities and seeking a side job in web development. Available from November to February (with limitations during the coaching main season from March to October).
 
 ## Kontakt
 
