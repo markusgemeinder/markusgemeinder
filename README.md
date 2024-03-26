@@ -1,4 +1,4 @@
-<img src="/images/gmndr-logo.png" width="100" align="right">
+<img src="/images/markusGemeinder_03.24_11_Banner_Website_3-1.jpg" width="100" align="right">
 
 
 # Profil Markus Gemeinder
