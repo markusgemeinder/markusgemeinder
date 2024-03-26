@@ -1,6 +1,6 @@
 # Markus Gemeinder
 
-<img src="/images/markusGemeinder_03.24_11_Banner_Website_3-1.jpg" width="300">
+<img src="/images/markusGemeinder_03.24_11_Banner_Website_3-1.jpg">
 
 ## Das bin ich | That's me
 
