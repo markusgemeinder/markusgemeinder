@@ -1,8 +1,5 @@
-<img src="/images/markusGemeinder_03.24_11_Banner_Website_3-1.jpg" width="100" align="right">
-
-
 # Profil Markus Gemeinder
-<img src="/images/gmndr-pic-2.jpg" width="300">
+<img src="/images/markusGemeinder_03.24_11_Banner_Website_3-1.jpg width="300">
 
 ## Über mich
 Herzlich willkommen auf meiner Seite! Hier gibt's ein paar komprimierte Infos über mich. Lust auf mehr Details? Dann freue ich mich auf eine Nachricht.
